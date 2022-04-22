@@ -1,4 +1,4 @@
-package com.junjae.hiltpractive.di
+package com.junjae.hiltpractive.di.module
 
 import dagger.Module
 import dagger.Provides

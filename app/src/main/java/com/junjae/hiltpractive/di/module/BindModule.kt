@@ -1,4 +1,4 @@
-package com.junjae.hiltpractive.di
+package com.junjae.hiltpractive.di.module
 
 import com.junjae.hiltpractive.model.Calculator
 import com.junjae.hiltpractive.model.CalculatorImpl
